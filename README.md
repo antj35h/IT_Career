@@ -11,4 +11,7 @@
 9. [IT Support Help Desk](IT%20Support%20Help%20Desk.md)
 10. [Quality Assurance Testing](Quality%20Assurance%20Testing.md)
 
-→ [Additional Skills](Additional%20Skills.md)
+# Extra Files
+
+1. [Additional Skills](Additional%20Skills.md)
+2. [IT Career Table Excel Sheet](IT%20Career%20Table.xlsx)
