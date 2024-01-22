@@ -24,4 +24,8 @@
   - Read through → [State of IT - What is hot, trends, jobs, locations...](https://www.reddit.com/r/ITCareerQuestions/comments/18y8vng/january_2024_state_of_it_what_is_hot_trends_jobs/)
 
 
-🌟 Best of Luck 🌟
+---
+
+**🌟 Best of Luck 🌟**
+
+---
