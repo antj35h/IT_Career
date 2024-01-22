@@ -15,3 +15,13 @@
 
 1. [Additional Skills](Additional%20Skills.md)
 2. [IT Career Table Excel Sheet](IT%20Career%20Table.xlsx)
+
+# Important Links
+
+- [CompTIA](https://www.comptia.org/)
+- [Subreddit for IT Career](https://www.reddit.com/r/ITCareerQuestions/)
+  - [Wiki Page](https://www.reddit.com/r/ITCareerQuestions/wiki/index/) for detailed information, guides, FAQs etc.
+  - Read through → [State of IT - What is hot, trends, jobs, locations...](https://www.reddit.com/r/ITCareerQuestions/comments/18y8vng/january_2024_state_of_it_what_is_hot_trends_jobs/)
+
+
+🌟 Best of Luck 🌟
